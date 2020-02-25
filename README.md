@@ -3,15 +3,15 @@ User inputs profile name, whose friends s/he wants to see. If the input is empty
 
 # INSTALLATION
 Use the package manager pip to install following libraries:
-`pip install flask`
-`pip install folium`
-`pip install geopy`
+`pip install flask
+pip install folium
+pip install geopy`
 
 # Structures of HTML files
 Files consist of three parts (head, body, script). 
-`<head> <\head> - includes header of the HTML file`
-`<body> <\body> - includes main part (map or message)`
-`<script> <\script> - includes process to complete (functions etc.)`
+`<head> <\head> - includes header of the HTML file
+<body> <\body> - includes main part (map or message)
+<script> <\script> - includes process to complete (functions etc.)`
 
 # Example of running program
 
