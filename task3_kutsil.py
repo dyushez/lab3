@@ -53,5 +53,5 @@ def fmain(acct):
         except AttributeError:
             fr_number += 1
         i += 1
-    map.save('templates/Friends.html')
+    map.save('/home/dyushezz/mysite/templates/Friends.html')
     return 'OK'
