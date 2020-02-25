@@ -1,9 +1,8 @@
-import csv
-
 from flask import Flask, render_template, request, redirect, url_for
 import task3_kutsil
 
 app = Flask(__name__)
+app.debug = True
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
