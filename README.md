@@ -14,10 +14,10 @@ Files consist of three parts (head, body, script).
 - `<script> <\script> - includes process to complete (functions etc.)`
 
 ## Example of running program
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
 
 ## Conclusion
 Map shows information about location of friends of given profile.
