@@ -15,13 +15,13 @@ Files consist of three parts (head, body, script).
 
 # Example of running program
 ![]
-https://github.com/dyushez/lab3/blob/master/screenshots/1.png
+(https://github.com/dyushez/lab3/blob/master/screenshots/1.png)
 ![]
-https://github.com/dyushez/lab3/blob/master/screenshots/2.png
+(https://github.com/dyushez/lab3/blob/master/screenshots/2.png)
 ![]
-https://github.com/dyushez/lab3/blob/master/screenshots/3.png
+(https://github.com/dyushez/lab3/blob/master/screenshots/3.png)
 ![]
-https://github.com/dyushez/lab3/blob/master/screenshots/4.png
+(https://github.com/dyushez/lab3/blob/master/screenshots/4.png)
 
 # Conclusion
 Map shows information about location of friends of given profile.
