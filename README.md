@@ -14,14 +14,15 @@ Files consist of three parts (head, body, script).
 - `<script> <\script> - includes process to complete (functions etc.)`
 
 # Example of running program
-![]
-(https://github.com/dyushez/lab3/blob/master/screenshots/1.png)
-![]
-(https://github.com/dyushez/lab3/blob/master/screenshots/2.png)
-![]
-(https://github.com/dyushez/lab3/blob/master/screenshots/3.png)
-![]
-(https://github.com/dyushez/lab3/blob/master/screenshots/4.png)
+![][1]
+[1]:
+https://github.com/dyushez/lab3/blob/master/screenshots/1.png
+![][2]
+[2]: https://github.com/dyushez/lab3/blob/master/screenshots/2.png
+![][3]
+[3]: https://github.com/dyushez/lab3/blob/master/screenshots/3.png
+![][4]
+[4]: https://github.com/dyushez/lab3/blob/master/screenshots/4.png
 
 # Conclusion
 Map shows information about location of friends of given profile.
