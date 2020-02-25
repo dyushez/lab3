@@ -1,5 +1,5 @@
 # MAP APP
-User inputs profile name, whose friends s/he wants to see. If the input is empty or there is no profile with such name or this profile has no friends user sees a message. If the input is correct map is generated. On the map there is 15 markers of locations of the first 15 profiles that are friends of input profile. If input profile has less than 15 friends with added location than there is less markers on the map. If point cursor on the marker, user can see a profile name of that friend.
+User inputs profile name, whose friends s/he wants to see. If the input is empty or there is no profile with such name or this profile has no friends user sees a message. If the input is correct map is generated. On the map there is 15 markers of locations of the first 15 profiles that are friends of input profile. If input profile has less than 15 friends with added location or there are friends with the same location thеn there is less markers on the map. If point cursor on the marker, user can see a profile name of that friend.
 
 ## INSTALLATION
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following libraries:
